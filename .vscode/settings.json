@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "bin\\Release\\net7.0\\publish",
+    "appService.defaultWebAppToDeploy": "/subscriptions/97010889-bff9-4da5-ab4f-c566a1dbecdf/resourceGroups/appsvc_windows_centralus/providers/Microsoft.Web/sites/Toragami-034"
+}
